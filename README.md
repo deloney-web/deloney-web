@@ -104,4 +104,4 @@
     </a>
 </p>
 
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valen-lang&show_icons=true&locale=en&theme=calm" alt="valen-lang" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deloney-web&show_icons=true&locale=en&theme=calm" alt="deloney-web" /></p>
