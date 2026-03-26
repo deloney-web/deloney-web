@@ -99,7 +99,7 @@
     <a href="https://linkedin.com/in/valenlang/" target="_blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
     </a>
-    <a href="https://github.com/valen-lang" target="_blank">
+    <a href="https://github.com/deloney-web" target="_blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="30" width="30" />
     </a>
 </p>
