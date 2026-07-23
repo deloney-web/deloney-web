@@ -1,8 +1,6 @@
 <h1 align="center">Welcome, I'm Valen Lang from Jakarta, Indonesia 🇮🇩</h1>
 <h3 align="center">High School Student & Aspiring Full-Stack / ML Engineer</h3>
 
-- 🔭 I’m currently working on **16 B2B SaaS projects** as part of learning and building experience.  
-- 🌱 I’m currently learning **Full-Stack Development, React, Node.js, TypeScript, Python, and Machine Learning**.  
 - 📫 How to reach me: **valenlangia@gmail.com**  
 
 ---
